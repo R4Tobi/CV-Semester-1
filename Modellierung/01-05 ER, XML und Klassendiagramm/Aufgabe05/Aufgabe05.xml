@@ -1,0 +1,27 @@
+<Rechnung>
+    <Kunde>
+        <Kundennummer>1234</Kundennummer>
+        <Name>Max Mustermann</Name>
+        <Adresse>Musterstrasse 17, 12345 Musterdorf</Adresse>
+        <Status>Goldkunde</Status>
+    </Kunde>
+    <Rechnungspositionen>
+        <Position>
+            <Artikelname>T-Shirt schwarz</Artikelname>
+            <Artikelnummer>5</Artikelnummer>
+            <Anzahl>3</Anzahl>
+            <Preis>10</Preis>
+        </Position>
+        <Position>
+            <Artikelname>T-Shirt blau</Artikelname>
+            <Artikelnummer>8</Artikelnummer>
+            <Anzahl>5</Anzahl>
+            <Preis>10</Preis>
+        </Position>
+    </Rechnungspositionen>
+    <Lieferung>
+        <Bestelldatum>02.01.2034</Bestelldatum>
+        <ZugesagteLieferdeadline>09.01.2034</ZugesagteLieferdeadline>
+        <Versanddienstleister>Deutsche Post</Versanddienstleister>
+    </Lieferung>
+</Rechnung>
